@@ -1,0 +1,12 @@
+<?xml version="1.0" ?><list>
+    <Player>
+        <Name>Hello2</Name>
+        <Score>1000</Score>
+        <Difficulty>easy</Difficulty>
+    </Player>
+    <Player>
+        <Name>hi</Name>
+        <Score>1000</Score>
+        <Difficulty>medium</Difficulty>
+    </Player>
+<Player><Name>hellopol</Name><Score>0</Score><Difficulty>easy</Difficulty></Player></list>

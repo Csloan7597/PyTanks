@@ -1,0 +1,12 @@
+<?xml version="1.0" ?><list>
+    <Player>
+        <Name>Helloc</Name>
+        <Score>1000</Score>
+        <Difficulty>easy</Difficulty>
+    </Player>
+    <Player>
+        <Name>hi</Name>
+        <Score>1000</Score>
+        <Difficulty>medium</Difficulty>
+    </Player>
+</list>
